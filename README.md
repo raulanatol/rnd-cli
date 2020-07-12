@@ -1,9 +1,9 @@
 # rnd-cli
 
 <p align="center">
-    ![Build](https://github.com/raulanatol/rnd-cli/workflows/Build/badge.svg?branch=master)
-    <a href="https://crates.io/crates/rnd-cli"><img src="https://img.shields.io/crates/v/rnd-cli.svg" alt="Version info"></a><br>
-     <img src="https://img.shields.io/crates/l/rnd-cli.svg" alt="license">
+    <a href="https://github.com/raulanatol/rnd-cli"><img src="https://github.com/raulanatol/rnd-cli/workflows/Build/badge.svg?branch=master" alt="CI/CD badge"></a>
+    <a href="https://crates.io/crates/rnd-cli"><img src="https://img.shields.io/crates/v/rnd-cli.svg" alt="Version info"></a>
+    <img src="https://img.shields.io/crates/l/rnd-cli.svg" alt="license">
 </p>
 
 A simple tool to read a file and manage his lines with a random feature.
