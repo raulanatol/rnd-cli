@@ -1,0 +1,15 @@
+[package]
+name = "rnd-cli"
+version = "0.1.0"
+authors = ["raulanatol <raul@natol.es>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"
+termion = "1.5.5"
+tui = "0.9.5"
+structopt = "0.3.15"
+
+[dev-dependencies]
+tempfile = "3.1.0"
+filename = "0.1.1"
