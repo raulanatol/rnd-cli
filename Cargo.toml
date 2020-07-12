@@ -5,7 +5,10 @@ authors = ["raulanatol <raul@natol.es>"]
 edition = "2018"
 description = "A simple tool to read a file and manage his lines with a random feature"
 homepage = "https://github.com/raulanatol/rnd-cli"
-license-file = "LICENSE"
+repository = "https://github.com/raulanatol/rnd-cli"
+license = "MIT/Apache-2.0"
+keywords = ["cli", "random", "files"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 rand = "0.7.3"

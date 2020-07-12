@@ -1,10 +1,18 @@
 # rnd-cli
 
+<p align="center">
+    ![Build](https://github.com/raulanatol/rnd-cli/workflows/Build/badge.svg?branch=master)
+    <a href="https://crates.io/crates/rnd-cli"><img src="https://img.shields.io/crates/v/rnd-cli.svg" alt="Version info"></a><br>
+     <img src="https://img.shields.io/crates/l/rnd-cli.svg" alt="license">
+</p>
+
 A simple tool to read a file and manage his lines with a random feature.
 
 It's really easy to random a list of names.
 
-<img src="/docs/app.gif" height="250" alt="rnd-cli working with the example file">
+<p align="center">
+    <img src="/docs/app.gif" height="250" alt="rnd-cli working with the example file">
+</p>
 
 ## How to use
 
