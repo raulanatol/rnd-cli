@@ -4,7 +4,7 @@ A simple tool to read a file and manage his lines with a random feature.
 
 It's really easy to random a list of names.
 
-<img src="/docs/app.gif" height="120" alt="rnd-cli working with the example file">
+<img src="/docs/app.gif" height="250" alt="rnd-cli working with the example file">
 
 ## How to use
 
