@@ -34,13 +34,17 @@ build:
 release_patch: release
 
 release_minor: check
-	@.scripts/finish-release minor
+	@echo "Update Cargo.toml version first"
+	@#.scripts/finish-release minor
 
 release_major: check
-	@.scripts/finish-release major
+	@echo "Update Cargo.toml version first"
+#	@.scripts/finish-release major
 
 release: check
-	@.scripts/finish-release patch
+#	@.scripts/finish-release patch
+	@echo "Update Cargo.toml version first"
+	@cargo package
 
 --pre_check:
 	@echo "👩‍🏭 Pre-check here!"

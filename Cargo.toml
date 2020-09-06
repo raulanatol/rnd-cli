@@ -1,6 +1,6 @@
 [package]
 name = "rnd-cli"
-version = "0.1.2-alpha.0"
+version = "0.1.2"
 authors = ["raulanatol <raul@natol.es>"]
 edition = "2018"
 description = "A simple tool to read a file and manage his lines with a random feature"
