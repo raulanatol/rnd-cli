@@ -56,8 +56,8 @@ impl UI {
                 .constraints(
                     [
                         Constraint::Percentage(10),
-                        Constraint::Percentage(85),
-                        Constraint::Percentage(5),
+                        Constraint::Percentage(80),
+                        Constraint::Percentage(10),
                     ]
                         .as_ref(),
                 )

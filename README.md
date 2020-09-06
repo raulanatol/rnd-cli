@@ -8,6 +8,15 @@
 
 A simple tool to read a file and manage his lines with a random feature.
 
+## Table of Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [How to use](#how-to-use)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 It's really easy to random a list of names.
 
 <p align="center">
